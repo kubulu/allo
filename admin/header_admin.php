@@ -24,10 +24,11 @@ try {
         if ($avatarPosition !== null){
             $avatarURL = $photos[$avatarPosition]->getURL();
         } else {
-            $avatarURL = $photos[0]->getURL();
+            $avatarURL = '../assets/dashboard/images/avatar_blank.png';
         }
 
     } else {
+      //  $avatarURL = "../assets/dashboard/images/avatar_blank.png";
         $avatarURL = "../assets/dashboard/images/avatar_blank.png";
     }
 } catch (Exception $e) {
