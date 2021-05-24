@@ -65,7 +65,7 @@ if(isset($_GET['username']) && isset($_GET['password'])) {
 <!-- header -->
 
 <head>
-    <title>Datoo Dashboard - Login</title>
+    <title>Allo Dashboard - Login</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!--===============================================================================================-->
@@ -96,9 +96,7 @@ if(isset($_GET['username']) && isset($_GET['password'])) {
 <div class="limiter">
     <div class="container-login100">
         <div class="wrap-login100">
-            <div class="login100-pic js-tilt" data-tilt>
-                <img src="../media/logo.png" alt="IMG">
-            </div>
+
 
             <form class="login100-form validate-form">
 					<span class="login100-form-title">Login with Admin credencials</span>
@@ -128,9 +126,6 @@ if(isset($_GET['username']) && isset($_GET['password'])) {
                     <a class="txt2" href="recover.php">Username or password?</a>
                 </div>
 
-                <div class="text-center p-t-136">
-
-                </div>
             </form>
         </div>
     </div>

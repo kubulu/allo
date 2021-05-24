@@ -233,8 +233,7 @@ $version = ParseServerInfo::getVersion();
 echo '
 
 <div class="footerFixed">
-    <p> © 2020 All rights reserved. Developed with <i class="fa fa-heart"></i> by <a href="https://www.angopapo.com" target="_blank">Angopapo, Lda</a></p>
-    <p> Parse Server v.'.$version.' / Admin Panel v.1.0.2</p>
+    <p> © 2021 All rights reserved. Developed with <i class="fa fa-heart"></i> by Allo</p>
 </div>
  
  ';

@@ -16,7 +16,7 @@
             <ul id="sidebarnav">
                 <!--<li class="nav-devider"></li>-->
                 <li>
-                    <a class="has-arrow  " href="../dashboard/panel.php" aria-expanded="false"><i class="fa fa-tachometer"></i><span class="hide-menu">Painel de controle </span></a>
+                    <a class="has-arrow  " href="../dashboard/panel.php" aria-expanded="false"><i class="fa fa-tachometer"></i><span class="hide-menu">Dashboard</span></a>
                 </li>
                 <li class="nav-label">General</li>
 
