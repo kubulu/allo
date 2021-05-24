@@ -1,6 +1,5 @@
 .idea
 composer.lock
-vendor
 
 # npm based parse-server-test
 node_modules
