@@ -121,10 +121,10 @@ if(isset($_GET['username']) && isset($_GET['password'])) {
                     <button class="login100-form-btn">Login</button>
                 </div>
 
-                <div class="text-center p-t-12">
+                <!-- <div class="text-center p-t-12">
 						<span class="txt1">Forgot</span>
                     <a class="txt2" href="recover.php">Username or password?</a>
-                </div>
+                </div> -->
 
             </form>
         </div>
